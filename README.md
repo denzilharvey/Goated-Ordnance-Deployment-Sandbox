@@ -18,6 +18,8 @@ You may share or adapt this work **non-commercially**, with attribution to Denzi
 
 GODS is a conceptual first-person shooter (FPS) that reimagines the fast-paced, skill-based mechanics of classic MW2-style gameplay. Its unique twist: all maps are created, edited, and voted on by the player community. Players experience tactical combat while also designing and testing their own arenas, creating a dynamic, community-driven multiplayer environment.
 
+![GODS Poster](GODS-POSTER.png)  
+
 Key Features:
 
 - **MW2-inspired player mechanics:** sprinting, crouching, jumping, aim-down-sights (ADS), realistic recoil, and fast kill times.  
