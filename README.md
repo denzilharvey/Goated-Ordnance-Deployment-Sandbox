@@ -159,7 +159,7 @@ GODS combines classic, skill-based FPS mechanics with community-driven map creat
 - Player avatars visible in-editor to emphasize collaboration  
 
 **Diagrams / Flowcharts:**  
-![GODS Flowchart](a_poster_infographic_style_game_concept_diagram_on.png)  
+
 ![GODS Poster](a_polished_infographic_game_concept_poster._overal.png)  
 
 ---
