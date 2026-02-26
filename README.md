@@ -9,8 +9,8 @@ MW2-inspired FPS with fully player-created maps — public Game Design Document 
 ---
 
 **License:**  
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-You may share or adapt this work **non-commercially**, with attribution to Denzil Harvey.  
+This project is licensed under **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)**.  
+You may share or adapt this work **non-commercially**, with attribution to Denzil Harvey.
 
 ---
 
